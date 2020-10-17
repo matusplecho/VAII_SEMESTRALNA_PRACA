@@ -1,7 +1,3 @@
-.btn-outline-success {
-    color: #13a790;
-    border-color: #13a790;
-}
 main{
     margin-top: 80px;
 }
@@ -24,4 +20,7 @@ footer > p{
 }
 footer > p > a{
     color: white;
+}
+footer > p > a:hover{
+    color: #17a2b8!important;
 }
