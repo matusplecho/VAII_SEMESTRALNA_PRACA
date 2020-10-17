@@ -1,0 +1,27 @@
+.btn-outline-success {
+    color: #13a790;
+    border-color: #13a790;
+}
+main{
+    margin-top: 80px;
+}
+footer{
+    display: flex;
+    position: static;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 70px;
+    background-color: #343a40!important;
+    justify-content:center;
+    align-items:center;
+    margin-top: 40px;
+}
+footer > p{
+    display: block;
+    position: center;
+    color: white;
+}
+footer > p > a{
+    color: white;
+}
