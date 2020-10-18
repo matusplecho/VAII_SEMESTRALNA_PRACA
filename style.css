@@ -16,10 +16,10 @@ footer{
     align-items:center;
     margin-top: 40px;
     border-top: #17a2b8 solid 3px;
+    text-align: center;
 }
 footer > p{
     display: block;
-    position: center;
     color: white;
 }
 footer > p > a{
