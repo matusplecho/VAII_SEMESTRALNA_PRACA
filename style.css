@@ -1,6 +1,9 @@
 main{
     margin-top: 80px;
 }
+.horizontalLine{
+    border-top: 1px solid #17a2b8;
+}
 footer{
     display: flex;
     position: static;
