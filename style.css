@@ -1,9 +1,15 @@
 main{
     margin-top: 80px;
 }
+
+.horizontalLine1{
+    border-top: 1px solid white;
+}
+
 .horizontalLine{
     border-top: 1px solid #17a2b8;
 }
+
 footer{
     display: flex;
     position: static;
@@ -18,13 +24,16 @@ footer{
     border-top: #17a2b8 solid 3px;
     text-align: center;
 }
+
 footer > p{
     display: block;
     color: white;
 }
+
 footer > p > a{
     color: white;
 }
+
 footer > p > a:hover{
     color: #17a2b8!important;
 }
