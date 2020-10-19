@@ -1,3 +1,7 @@
+body{
+    background-image: linear-gradient(black, #17a2b8, black);
+}
+
 main{
     margin-top: 80px;
 }
